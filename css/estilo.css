@@ -1,0 +1,21 @@
+#topico{
+    color: rgb(16, 48, 153);
+    font-size: 25px;
+}
+.font{
+    font-size: 20px;
+}
+#author{
+    color: rgb(16, 48, 153);
+    text-align: center;
+    font-size: 15px;
+}
+.inform{
+    color: rgb(146, 146, 163);
+    font-size: 13px;
+    text-align: center;
+}
+.fontSublime{
+    color: rgb(16, 48, 153);
+    font-size: 23px;
+}
