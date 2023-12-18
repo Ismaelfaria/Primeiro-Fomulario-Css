@@ -1,21 +1,25 @@
-#topico{
-    color: rgb(16, 48, 153);
-    font-size: 25px;
+body{
+    background-color: rgb(0, 0, 0);
 }
-.font{
-    font-size: 20px;
+
+h1{
+    color: mediumvioletred;
 }
-#author{
-    color: rgb(16, 48, 153);
-    text-align: center;
+p{
+    color: pink;
+}
+
+.exe{
+    border: 1px solid rgb(241, 241, 241);
+    border-radius: 15px;
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
     font-size: 15px;
+    padding: 2%;
 }
-.inform{
-    color: rgb(146, 146, 163);
-    font-size: 13px;
-    text-align: center;
-}
-.fontSublime{
-    color: rgb(16, 48, 153);
-    font-size: 23px;
+
+#aa{
+    border: 1px solid rgb(241, 241, 241);
+    border-radius: 10px;
 }
